@@ -1,10 +1,6 @@
 # SQL-Mentor-User-Performance-Analysis
 ![](https://github.com/Hamdiakhan/SQL-Mentor-User-Performance-Analysis/blob/main/Unknown-5.jpg)
 
-# SQL Mentor User Performance Analysis | Project No.10
-
-![SQL Data Analytics](https://github.com/najirh/sql-project-10---sql-mentor-datasets/blob/main/Unknown-5.jpg)
-
 ## Project Overview
 
 This project is designed to help beginners understand SQL querying and performance analysis using real-time data from SQL Mentor datasets. In this project, you will analyze user performance by creating and querying a table of user submissions. The goal is to solve a series of SQL problems to extract meaningful insights from user data.
